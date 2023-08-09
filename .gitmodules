@@ -1,7 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/olivroy/universe
+	url = https://github.com/olivroy/olivroy.r-universe.dev
 	branch = HEAD
 [submodule "reuseme"]
 	path = reuseme
 	url = https://github.com/olivroy/reuseme
+	branch = main
